@@ -1,4 +1,4 @@
-![github-header-image (9)](https://github.com/Hariom329/Hariom329/blob/main/github-header-image.png?raw=true)
+![github-header-image (9)](https://github.com/Hariom329/Hariom329/blob/main/github-header-image%20(3).png?raw=true)
 <!--
 # <div align="center">I'm Sankalp, a Designer and developer from India. 🚀</div>  
 <br/>
