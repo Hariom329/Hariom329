@@ -1,4 +1,4 @@
-![github-header-image (9)](https://github.com/K144U/K144U/assets/95154157/150cdcdc-bbeb-428b-bd83-ce34c6601397)
+![github-header-image (9)](https://github.com/Hariom329/Hariom329/blob/main/github-header-image.png?raw=true)
 <!--
 # <div align="center">I'm Sankalp, a Designer and developer from India. 🚀</div>  
 <br/>
