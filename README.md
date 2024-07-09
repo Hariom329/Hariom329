@@ -34,8 +34,8 @@
   <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" /></a>  
   <a href="https://www.kaggle.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="50" /></a>
   <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android        Studio" height="50" /></a>  
-  <a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google       Colab" height="50" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" height="50" /></a>  
+  <a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="50" /></a>
  
 
 </div>  
@@ -66,7 +66,7 @@
                <a href="http://www.github.com/Hariom329"><img src="https://github-readme-stats.vercel.app/api?username=Hariom329&show_icons=true&theme=transparent&hide_border=true" alt="Hariom329's GitHub stats" /></a> 
           </td> 
           <td> 
-               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom329&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="Hariom329's GitHub streak" /></a>
+               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-streak-stats.herokuapp.com/?    user=Hariom329&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="Hariom329's GitHub streak" /></a>
           </td> 
      </tr> 
      <tr>
