@@ -21,7 +21,8 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50" /></a>  
   <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" height="50" /></a>
 </div> 
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
