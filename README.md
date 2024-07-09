@@ -66,7 +66,7 @@
                <a href="http://www.github.com/Hariom329"><img src="https://github-readme-stats.vercel.app/api?username=Hariom329&show_icons=true&theme=transparent&hide_border=true" alt="Hariom329's GitHub stats" /></a> 
           </td> 
           <td> 
-               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-streak-stats.herokuapp.com/?    user=Hariom329&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="Hariom329's GitHub streak" /></a>
+               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom329&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="Hariom329's GitHub streak" /></a>
           </td> 
      </tr> 
      <tr>
