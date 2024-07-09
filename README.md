@@ -22,7 +22,12 @@
 </div> 
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/huggingface-icon.svg" alt="Hugging Face" height="50" /></a>  
+<a href="https://www.kaggle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kaggle-icon.svg" alt="Kaggle" height="50" /></a>  
+
 </div>  
 <br/>  
 
