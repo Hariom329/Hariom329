@@ -49,6 +49,9 @@
     <a href="https://www.linkedin.com/in/hariom-mishra-7a8675221/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
+    <a href="https://www.instagram.com/mishscrub" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+    </a>
      <a href="https://www.kaggle.com/hariommishra329" target="_blank">
         <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
     </a>
