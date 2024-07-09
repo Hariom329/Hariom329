@@ -1,13 +1,13 @@
 ![github-header-image (9)](https://github.com/Hariom329/Hariom329/blob/main/github-header-image%20(3).png?raw=true)
 <!--
-# <div align="center">I'm Sankalp, a Designer and developer from India. 🚀</div>  
+# <div align="center">I'm Hariom, a ML Engineer & Developer from India. 🚀</div>  
 <br/>
 -->
 
 
-- 🔭 I’m currently working on [ThreeJS Projects](https://github.com/k144u/Keyboard)  
-- 🌱 I’m currently learning   
-- ❓ Ask me about anything related to Blender, UI/UX and related stuff.  
+- 🔭 Currently working on LLM Projects(Gemma/LLaMa/Transformers)  
+- 🌱 I’m currently learning Memory Pooling and Efficient ways of Fine Tuning LLMs  
+- ❓ Ask me about anything related to GenAI, LLMs, Android.
 <br/>
 
 ## My Skill Set
