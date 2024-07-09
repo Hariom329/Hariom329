@@ -6,7 +6,7 @@
 
 
 - 🔭 Currently working on LLM Projects(Gemma/LLaMa/Transformers Based Models)  
-- 🌱 I’m currently learning Memory Pooling and Efficient ways of Fine Tuning LLMs  
+- 🌱 I’m currently learning Efficient ways of Fine Tuning LLMs and iOS Application Development
 - ❓ Ask me about anything related to GenAI, LLMs, Android.
 <br/>
 
