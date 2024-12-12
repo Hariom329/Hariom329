@@ -6,8 +6,8 @@
 
 
 - 🔭 Currently working on LLM Projects(Gemma/LLaMa/Transformers Based Models)  
-- 🌱 I’m currently learning Efficient ways of Fine Tuning LLMs and iOS Application Development
-- ❓ Ask me about anything related to GenAI, LLMs, Android.
+- 🌱 I’m currently learning Efficient ways of LLM Architecturing, Prompt Engineering and iOS Application Development
+- ❓ Ask me about anything related to GenAI, LLMs, Machine Learning, Android.
 - 📫 How to reach me c29hariommishra@gmail.com
 <br/>
 
